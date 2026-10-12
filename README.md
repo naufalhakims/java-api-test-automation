@@ -77,7 +77,7 @@ mvn -version
 Replace the placeholder URL with your actual GitHub repository URL.
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/naufalhakims/java-api-test-automation.git
 cd java-api-test-automation
 ```
 
